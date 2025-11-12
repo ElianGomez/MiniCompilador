@@ -2,9 +2,9 @@
 
 **Versión:** 1.0  
 **Lenguaje del compilador:** C# (.NET 8, WPF)  
-**Autor:** *Elian Gomez 1-21-2318* 
-**Materia:** *Compiladores*
-**Docente:** *Ivan Mendoza**
+**Autor:** Elian Gomez 1-21-2318 
+**Materia:** Compiladores
+**Docente:** Ivan Mendoza
 
 ---
 
